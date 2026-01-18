@@ -8,4 +8,9 @@ element= int(input("enter a number:"))
 if element in numbers:
     print("element exists in the tuple")
 else:
+
     print("element does not exists in the tuple")
+
+output:- 
+Enter a number: 10
+element exists in the tuple 
