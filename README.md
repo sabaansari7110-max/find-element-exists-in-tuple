@@ -40,13 +40,13 @@ else:
    
 #what i learned 
 <br>
-From thid program, I Learned:
+From this program, I Learned:
 <br>
--How to create and use a tuple in pyhton
+-How to create and use a tuple in pyhton.
 <br>
--How to take input from user
+-How to take input from user.
 <br>
--How to use 'if-else' condition 
+-How to use 'if-else' condition.
 <br>
--Basic logic for searching elements in a collection
+-Basic logic for searching elements in a collection.
 <br>
