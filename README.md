@@ -1,5 +1,5 @@
 # find element exists in tuple (python)
-This program checkks whether a given element exists in a tuple or not.
+This program checks whether a given element exists in a tuple or not.
 
 #Description
 <br>
