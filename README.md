@@ -1,11 +1,11 @@
 # find element exists in tuple (python)
 This program checks whether a given element exists in a tuple or not.
 
-#Description
+# Description
 <br>
 If the element is found, it prints a success message, otherwse it shows that the element does not exiss.
 
-#concept used
+## concept used
 <br>
 -tuple
 <br>
@@ -13,7 +13,7 @@ If the element is found, it prints a success message, otherwse it shows that the
 <br>
 -if-else condition
 
-#how to Run
+## How to Run
 <br>
 1.Install python
 <br>
@@ -23,7 +23,7 @@ If the element is found, it prints a success message, otherwse it shows that the
 <br>
 python filename.py
 
-#example code
+## Example code
 <br>
 num= (20,40,60,80)
 <br>
@@ -31,7 +31,9 @@ val= int(input"enter number to search: "))
 <br>
 if val in num:
 <br>
-   print("element exists in tuple")
+```text
+print("element exists in tuple")
+```
    <br>
 else:
 <br>
