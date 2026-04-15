@@ -31,16 +31,13 @@ val= int(input"enter number to search: "))
 <br>
 if val in num:
 <br>
-```text
+```python
 print("element exists in tuple")
-```
-   <br>
 else:
-<br>
    print("element does not exists in tuple")
-   <br>
+```
    
-#what i learned 
+## what i learned 
 <br>
 From this program, I Learned:
 <br>
